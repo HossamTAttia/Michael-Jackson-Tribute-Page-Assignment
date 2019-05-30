@@ -1,0 +1,24 @@
+#main{
+  background-color: cyan;
+  width:100%;
+}
+#img-caption{
+  text-align:center;
+   font-weight:bold;
+}
+#title{
+  font-size: 30px;
+  color:red;
+  text-align:center;
+  font-weight:bold;
+}
+#albums{
+ font-weight:bold;
+}
+#image{
+  width:100%;
+  max-width: 1000px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
